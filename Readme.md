@@ -1,6 +1,7 @@
-A Dynamic dashboard for Adventure Works company's sales and quotas using PowerBI
+Thanks for your interest! Please checkout the full report by clicking view from [here](https://github.com/tonCodesData/adventure-works-sales-report-powerBI/blob/main/Project%20Revenue%20analysis%20of%20Adventure%20Works.pbix)
 
-
+##### A Dynamic dashboard for Adventure Works company's sales and quotas using PowerBI
+Screenshots of the dashboard:
 
 ![1](https://github.com/tonCodesData/adventure-works-sales-report-powerBI/assets/124179394/c1bb72ec-57c8-426f-bb3f-f491c2dbc377)
 
