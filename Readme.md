@@ -1,4 +1,4 @@
-Thanks for your interest! Please checkout the full report by clicking view from [here](https://github.com/tonCodesData/adventure-works-sales-report-powerBI/blob/main/Project%20Revenue%20analysis%20of%20Adventure%20Works.pbix)
+Thanks for your interest! Please checkout the full report by clicking View raw [here](https://github.com/tonCodesData/adventure-works-sales-report-powerBI/blob/main/Project%20Revenue%20analysis%20of%20Adventure%20Works.pbix)
 
 ##### A Dynamic dashboard for Adventure Works company's sales and quotas using PowerBI
 Screenshots of the dashboard:
